@@ -13,6 +13,7 @@ Nesse projeto usando api que retorna informações sobre o clima,  Digitando o n
 
 ## Conceitos praticados
 ![alt text](image-5.png)
+
 Foi um projeto muito bacana onde pude por em prática conceitos muito importantes e amplamente usados na criação de sites e aplicativos. 
 Estruturação Html, estilização e posicionamento com css e flex-box interação com javascript Criação de variáveis e funções,  integração com API. 
 
