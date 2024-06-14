@@ -9,7 +9,7 @@ Nesse projeto usando api que retorna informações sobre o clima,  Digitando o n
 - Html
 - Css
 - Javascript 
-- api 
+ 
 
 ## Conceitos praticados⌨️![alt text](image-5.png)
 Foi um projeto muito bacana onde pude por em prática conceitos muito importantes e amplamente usados na criação de sites e aplicativos. 
