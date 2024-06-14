@@ -1,4 +1,4 @@
-#Aplicativo De previsão do tempo 
+Aplicativo De previsão do tempo 
 
 Nesse app usando api que retorna informações sobre o clima,  Digitando o nome da cidade que você deseja de forma instantanea e em tempo real , aparecem informações sobre o clima
 
